@@ -1,0 +1,403 @@
+# Query: html
+# ContextLines: 1
+
+169 results - 12 files
+
+about.html:
+    1: <!DOCTYPE html>
+    2  
+
+    9  
+   10: <html lang="en">
+   11  <head>
+
+   44    <nav class="navbar navbar-expand-lg navbar-dark">
+   45:     <a class="navbar-brand font-tertiary h3" href="index.html"><img src="images/logo.png" alt="Myself"></a>
+   46      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
+
+   53          <li class="nav-item active">
+   54:           <a class="nav-link" href="index.html">Home</a>
+   55          </li>
+   56          <li class="nav-item">
+   57:           <a class="nav-link" href="about.html">about</a>
+   58          </li>
+   59          <li class="nav-item">
+   60:           <a class="nav-link" href="blog.html">Blog</a>
+   61          </li>
+   62          <li class="nav-item">
+   63:           <a class="nav-link" href="portfolio.html">Portfolio</a>
+   64          </li>
+   65          <li class="nav-item">
+   66:           <a class="nav-link" href="contact.html">Contact</a>
+   67          </li>
+
+  123            <h4 class="mb-4">freecodecamp</h4>
+  124:           <p>I am learned about HTML and CSS on freecodecamp and i was able to got a certificate on codingss.</p>
+  125          </div>
+
+  191          <div class="client-logo-slider d-flex align-items-center">
+  192:           <a href="contact.html" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+  193                src="images/clients-logo/client-logo-1.png" alt="client-logo"></a>
+  194:           <a href="contact.html" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+  195                src="images/clients-logo/client-logo-2.png" alt="client-logo"></a>
+  196:           <a href="contact.html" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+  197                src="images/clients-logo/client-logo-3.png" alt="client-logo"></a>
+  198:           <a href="contact.html" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+  199                src="images/clients-logo/client-logo-4.png" alt="client-logo"></a>
+  200:           <a href="contact.html" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+  201                src="images/clients-logo/client-logo-5.png" alt="client-logo"></a>
+  202:           <a href="contact.html" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+  203                src="images/clients-logo/client-logo-1.png" alt="client-logo"></a>
+  204:           <a href="contact.html" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+  205                src="images/clients-logo/client-logo-2.png" alt="client-logo"></a>
+  206:           <a href="contact.html" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+  207                src="images/clients-logo/client-logo-3.png" alt="client-logo"></a>
+  208:           <a href="contact.html" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+  209                src="images/clients-logo/client-logo-4.png" alt="client-logo"></a>
+  210:           <a href="contact.html" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+  211          
+
+  292  </body>
+  293: </html>
+
+blog-single.html:
+    1: <!DOCTYPE html>
+    2  
+
+    9  
+   10: <html lang="en">
+   11  <head>
+
+   44    <nav class="navbar navbar-expand-lg navbar-dark">
+   45:     <a class="navbar-brand font-tertiary h3" href="index.html"><img src="images/logo.png" alt="Myself"></a>
+   46      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
+
+   53          <li class="nav-item active">
+   54:           <a class="nav-link" href="index.html">Home</a>
+   55          </li>
+   56          <li class="nav-item">
+   57:           <a class="nav-link" href="about.html">about</a>
+   58          </li>
+   59          <li class="nav-item">
+   60:           <a class="nav-link" href="blog.html">Blog</a>
+   61          </li>
+   62          <li class="nav-item">
+   63:           <a class="nav-link" href="portfolio.html">Portfolio</a>
+   64          </li>
+   65          <li class="nav-item">
+   66:           <a class="nav-link" href="contact.html">Contact</a>
+   67          </li>
+
+  209            <div class="card-body">
+  210:             <h4 class="card-title"><a class="text-dark" href="blog-single.html">Amazon increase income 1.5 Million</a>
+  211              </h4>
+
+  214                dolore magna aliqua.</p>
+  215:             <a href="blog-single.html" class="btn btn-xs btn-primary">Read More</a>
+  216            </div>
+
+  222            <div class="card-body">
+  223:             <h4 class="card-title"><a class="text-dark" href="blog-single.html">Amazon increase income 1.5 Million</a>
+  224              </h4>
+
+  227                dolore magna aliqua.</p>
+  228:             <a href="blog-single.html" class="btn btn-xs btn-primary">Read More</a>
+  229            </div>
+
+  235            <div class="card-body">
+  236:             <h4 class="card-title"><a class="text-dark" href="blog-single.html">Amazon increase income 1.5 Million</a>
+  237              </h4>
+
+  240                dolore magna aliqua.</p>
+  241:             <a href="blog-single.html" class="btn btn-xs btn-primary">Read More</a>
+  242            </div>
+
+  323  </body>
+  324: </html>
+
+blog.html:
+    1: <!DOCTYPE html>
+    2  
+
+    9  
+   10: <html lang="en">
+   11  <head>
+
+   44    <nav class="navbar navbar-expand-lg navbar-dark">
+   45:     <a class="navbar-brand font-tertiary h3" href="index.html"><img src="images/logo.png" alt="Myself"></a>
+   46      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
+
+   53          <li class="nav-item active">
+   54:           <a class="nav-link" href="index.html">Home</a>
+   55          </li>
+   56          <li class="nav-item">
+   57:           <a class="nav-link" href="about.html">about</a>
+   58          </li>
+   59          <li class="nav-item">
+   60:           <a class="nav-link" href="blog.html">Blog</a>
+   61          </li>
+   62          <li class="nav-item">
+   63:           <a class="nav-link" href="portfolio.html">Portfolio</a>
+   64          </li>
+   65          <li class="nav-item">
+   66:           <a class="nav-link" href="contact.html">Contact</a>
+   67          </li>
+
+  100              <div class="card-body">
+  101:               <h4 class="card-title"><a class="text-dark" href="blog-single.html">Amazon increase income 1.5 Million</a>
+  102                </h4>
+
+  105                  dolore magna aliqua.</p>
+  106:               <a href="blog-single.html" class="btn btn-xs btn-primary">Read More</a>
+  107              </div>
+
+  113            <div class="card-body">
+  114:             <h4 class="card-title"><a class="text-dark" href="blog-single.html">Amazon increase income 1.5 Million</a>
+  115              </h4>
+
+  118                dolore magna aliqua.</p>
+  119:             <a href="blog-single.html" class="btn btn-xs btn-primary">Read More</a>
+  120            </div>
+
+  126            <div class="card-body">
+  127:             <h4 class="card-title"><a class="text-dark" href="blog-single.html">Amazon increase income 1.5 Million</a>
+  128              </h4>
+
+  131                dolore magna aliqua.</p>
+  132:             <a href="blog-single.html" class="btn btn-xs btn-primary">Read More</a>
+  133            </div>
+
+  139            <div class="card-body">
+  140:             <h4 class="card-title"><a class="text-dark" href="blog-single.html">Amazon increase income 1.5 Million</a>
+  141              </h4>
+
+  144                dolore magna aliqua.</p>
+  145:             <a href="blog-single.html" class="btn btn-xs btn-primary">Read More</a>
+  146            </div>
+
+  152            <div class="card-body">
+  153:             <h4 class="card-title"><a class="text-dark" href="blog-single.html">Amazon increase income 1.5 Million</a>
+  154              </h4>
+
+  157                dolore magna aliqua.</p>
+  158:             <a href="blog-single.html" class="btn btn-xs btn-primary">Read More</a>
+  159            </div>
+
+  165            <div class="card-body">
+  166:             <h4 class="card-title"><a class="text-dark" href="blog-single.html">Amazon increase income 1.5 Million</a>
+  167              </h4>
+
+  170                dolore magna aliqua.</p>
+  171:             <a href="blog-single.html" class="btn btn-xs btn-primary">Read More</a>
+  172            </div>
+
+  190          <div class="client-logo-slider d-flex align-items-center">
+  191:           <a href="contact.html" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+  192                src="images/clients-logo/client-logo-1.png" alt="client-logo"></a>
+  193:           <a href="contact.html" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+  194                src="images/clients-logo/client-logo-2.png" alt="client-logo"></a>
+  195:           <a href="contact.html" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+  196                src="images/clients-logo/client-logo-3.png" alt="client-logo"></a>
+  197:           <a href="contact.html" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+  198                src="images/clients-logo/client-logo-4.png" alt="client-logo"></a>
+  199:           <a href="contact.html" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+  200                src="images/clients-logo/client-logo-5.png" alt="client-logo"></a>
+  201:           <a href="contact.html" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+  202                src="images/clients-logo/client-logo-1.png" alt="client-logo"></a>
+  203:           <a href="contact.html" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+  204                src="images/clients-logo/client-logo-2.png" alt="client-logo"></a>
+  205:           <a href="contact.html" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+  206                src="images/clients-logo/client-logo-3.png" alt="client-logo"></a>
+  207:           <a href="contact.html" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+  208                src="images/clients-logo/client-logo-4.png" alt="client-logo"></a>
+  209:           <a href="contact.html" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+  210                src="images/clients-logo/client-logo-5.png" alt="client-logo"></a>
+
+  291  </body>
+  292: </html>
+
+contact.html:
+    1: <!DOCTYPE html>
+    2  
+
+    9  
+   10: <html lang="en">
+   11  <head>
+
+   44    <nav class="navbar navbar-expand-lg navbar-dark">
+   45:     <a class="navbar-brand font-tertiary h3" href="index.html"><img src="images/logo.png" alt="Myself"></a>
+   46      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
+
+   53          <li class="nav-item active">
+   54:           <a class="nav-link" href="index.html">Home</a>
+   55          </li>
+   56          <li class="nav-item">
+   57:           <a class="nav-link" href="about.html">about</a>
+   58          </li>
+   59          <li class="nav-item">
+   60:           <a class="nav-link" href="blog.html">Blog</a>
+   61          </li>
+   62          <li class="nav-item">
+   63:           <a class="nav-link" href="portfolio.html">Portfolio</a>
+   64          </li>
+   65          <li class="nav-item">
+   66:           <a class="nav-link" href="contact.html">Contact</a>
+   67          </li>
+
+  166  </body>
+  167: </html>
+
+index.html:
+    1: <!DOCTYPE html>
+    2  
+
+    9  
+   10: <html lang="en">
+   11  <head>
+
+   44    <nav class="navbar navbar-expand-lg navbar-dark">
+   45:     <a class="navbar-brand font-tertiary h3" href="index.html"><img src="images/r,png" alt="LOGO"></a>
+   46      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
+
+   53          <li class="nav-item active">
+   54:           <a class="nav-link" href="index.html">Home</a>
+   55          </li>
+   56          <li class="nav-item">
+   57:           <a class="nav-link" href="about.html">about</a>
+   58          </li>
+   59          <li class="nav-item">
+   60:           <a class="nav-link" href="blog.html">Blog</a>
+   61          </li>
+   62          <li class="nav-item">
+   63:           <a class="nav-link" href="portfolio.html">Portfolio</a>
+   64          </li>
+   65          <li class="nav-item">
+   66:           <a class="nav-link" href="contact.html">Contact</a>
+   67          </li>
+
+  125          <p class="font-secondary paragraph-lg text-dark">I really like graphic design, coding and have exprience as a freelancer working with client. I could see myself working on teams becuase it seem like a great place to work and benefit look incredible.</p>
+  126:         <a href="about.html" class="btn btn-transparent">know more</a>
+  127        </div>
+
+  445      <div class="client-logo-slider d-flex align-items-center">
+  446:       <a href="contact.html" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+  447            src="images/clients-logo/client-logo-1.png" alt="client-logo"></a>
+  448:       <a href="contact.html" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+  449            src="images/clients-logo/client-logo-2.png" alt="client-logo"></a>
+  450:       <a href="contact.html" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+  451            src="images/clients-logo/client-logo-3.png" alt="client-logo"></a>
+  452:       <a href="contact.html" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+  453            src="images/clients-logo/client-logo-4.png" alt="client-logo"></a>
+  454:       <a href="contact.html" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+  455            src="images/clients-logo/client-logo-5.png" alt="client-logo"></a>
+  456:       <a href="contact.html" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+  457            src="images/clients-logo/client-logo-1.png" alt="client-logo"></a>
+  458:       <a href="contact.html" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+  459            src="images/clients-logo/client-logo-2.png" alt="client-logo"></a>
+  460:       <a href="contact.html" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+  461            src="images/clients-logo/client-logo-3.png" alt="client-logo"></a>
+  462:       <a href="contact.html" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+  463            src="images/clients-logo/client-logo-4.png" alt="client-logo"></a>
+  464:       <a href="contact.html" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+  465            src="images/clients-logo/client-logo-5.png" alt="client-logo"></a>
+
+  481            <div class="card-body">
+  482:             <h4 class="card-title"><a class="text-dark" href="blog-single.html">Amazon increase income 1.5 Million</a>
+  483              </h4>
+
+  486                dolore magna aliqua.</p>
+  487:             <a href="blog-single.html" class="btn btn-xs btn-primary">Read More</a>
+  488            </div>
+
+  494            <div class="card-body">
+  495:             <h4 class="card-title"><a class="text-dark" href="blog-single.html">Amazon increase income 1.5 Million</a>
+  496              </h4>
+
+  499                dolore magna aliqua.</p>
+  500:             <a href="blog-single.html" class="btn btn-xs btn-primary">Read More</a>
+  501            </div>
+
+  507            <div class="card-body">
+  508:             <h4 class="card-title"><a class="text-dark" href="blog-single.html">Amazon increase income 1.5 Million</a>
+  509              </h4>
+
+  512                dolore magna aliqua.</p>
+  513:             <a href="blog-single.html" class="btn btn-xs btn-primary">Read More</a>
+  514            </div>
+
+  590  </body>
+  591: </html>
+
+portfolio.html:
+    1: <!DOCTYPE html>
+    2  
+
+    9  
+   10: <html lang="en">
+   11  <head>
+
+   44    <nav class="navbar navbar-expand-lg navbar-dark">
+   45:     <a class="navbar-brand font-tertiary h3" href="index.html"><img src="images/logo.png" alt="Myself"></a>
+   46      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
+
+   53          <li class="nav-item active">
+   54:           <a class="nav-link" href="index.html">Home</a>
+   55          </li>
+   56          <li class="nav-item">
+   57:           <a class="nav-link" href="about.html">about</a>
+   58          </li>
+   59          <li class="nav-item">
+   60:           <a class="nav-link" href="blog.html">Blog</a>
+   61          </li>
+   62          <li class="nav-item">
+   63:           <a class="nav-link" href="portfolio.html">Portfolio</a>
+   64          </li>
+   65          <li class="nav-item">
+   66:           <a class="nav-link" href="contact.html">Contact</a>
+   67          </li>
+
+  220          <div class="client-logo-slider d-flex align-items-center">
+  221:           <a href="contact.html" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+  222                src="images/clients-logo/client-logo-1.png" alt="client-logo"></a>
+  223:           <a href="contact.html" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+  224                src="images/clients-logo/client-logo-2.png" alt="client-logo"></a>
+  225:           <a href="contact.html" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+  226                src="images/clients-logo/client-logo-3.png" alt="client-logo"></a>
+  227:           <a href="contact.html" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+  228                src="images/clients-logo/client-logo-4.png" alt="client-logo"></a>
+  229:           <a href="contact.html" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+  230                src="images/clients-logo/client-logo-5.png" alt="client-logo"></a>
+  231:           <a href="contact.html" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+  232                src="images/clients-logo/client-logo-1.png" alt="client-logo"></a>
+  233:           <a href="contact.html" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+  234                src="images/clients-logo/client-logo-2.png" alt="client-logo"></a>
+  235:           <a href="contact.html" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+  236                src="images/clients-logo/client-logo-3.png" alt="client-logo"></a>
+  237:           <a href="contact.html" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+  238                src="images/clients-logo/client-logo-4.png" alt="client-logo"></a>
+  239:           <a href="contact.html" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+  240                src="images/clients-logo/client-logo-5.png" alt="client-logo"></a>
+
+  321  </body>
+  322: </html>
+
+plugins/bootstrap/bootstrap.min.css:
+  5   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+  6: ⟪ 599 characters skipped ⟫","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";--font-family-monospace:SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace}*,::after,::before{box-sizing:border-box}html{font-family:sans-serif;line-height:1.15;-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:transparent}article,aside,figcaption,figure,footer,header,hgroup,main,nav,section{display:block}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";font-size:1rem;font-weight:400;line-height:1.5;color:#212529;text-align:left;background-color:#fff}[tabindex="-1"]:focus:not(:focus-visible){outline:0!important}hr{box-sizing:content-box;height:0;overflow:visible}h1,h2,h3,h4,h5,h6{margin-top:0;margin-bottom:.5rem}p{margin-top:0;margin-bottom:1rem}abbr[data-original-title],abbr[title]{text-decoration:underline;-webkit-text-decoration:underline dotted;text-decoration:underline dotted;cursor:help;border-bottom:0;-webkit-text-decoration-skip-ink:none;text-decoration-skip-ink:none}address{margin-bottom:1rem;font-style:normal;line-height:inherit}dl,ol,u
+
+plugins/bootstrap/bootstrap.min.js:
+  5    */
+  6: ⟪ 38399 characters skipped ⟫gg|webm)|audio\/(?:mp3|oga|ogg|opus));base64,[\d+/a-z]+=*$/i;function U(t,e,n){if(0===t.length)return t;if(n&&"function"==typeof n)return n(t);for(var i=(new window.DOMParser).parseFromString(t,"text/html"),o=Object.keys(e),a=[].slice.call(i.body.querySelectorAll("*")),s=function(t,n){var i=a[t],s=i.nodeName.toLowerCase();if(-1===o.indexOf(i.nodeName.toLowerCase()))return i.parentNode.removeChild(i),"continue";var l=[].slice.call(i.attributes),r=[].concat(e["*"]||[],e[s]||[]);l.forEach((function(t){(function(t,e){var n=t.nodeName.toLowerCase();if(-1!==e.indexOf(n))return-1===F.indexOf(n)||Boolean(t.nodeValue.match(B)||t.nodeValue.match(H));for(var i=e.filter((function(t){return t instanceof RegExp})),o=0,a=i.length;o<a;o++)if(n.match(i[o]))return!0;return!1})(t,r)||i.removeAttribute(t.nodeName)}))},l=0,r=a.length;l<r;l++)s(l);return i.body.innerHTML}var M="tooltip",W=o.default.fn[M],V=new RegExp("(^|\\s)bs-tooltip\\S+","g"),z=["sanitize","whiteList","sanitizeFn"],K={animation:"boolean",template:"string",title:"(string|element|function)",trigger:"string",delay:"(number|object)",html:"boolean",selector:"(string|boolean)",placement:"(string|function)",offset:"(number|string|function)",container:"(string|element|boolean)",fallbackPlacement:"(string|array)",boundary:"(string|element)",sanitize:"boolean",sanitizeFn:"(null|function)",whiteList:"object",popperConfig:"(null|object)"},X={AUTO:"auto",TOP:"top",RIGHT:"right",BOTTOM:"bottom",LEFT:"left"},Y={animation:!0,template:'<div class="tooltip" role="tooltip"><div class="arrow"></div><div class="tooltip-inner"></div></div>',trigger:"hover focus",title:"",delay:0,html:!1,selector:!1,placement:"top",offset:0,container:!1,fallbackPlacement:"flip",boundary:"scrollParent",sanitize:!0,sanitizeFn:null,whiteList:Q,popperConfig:null},$={HIDE:"hide.bs.tooltip",HIDDEN:"hidden.bs.tooltip",SHOW:"show.bs.tooltip",SHOWN:"shown.bs.tooltip",INSERTED:"inserted.bs.tooltip",CLICK:"click.bs.tooltip",FOCUSIN:"focusin.bs.tooltip",FOCUSOUT:"focusout.bs.tooltip",MOUSEENTER:"mouseenter.bs.tooltip",MOUSELEAVE:"mouseleave.bs.tooltip"},J=function(){function t(t,e){if("undefined"==typeof a.default)throw new TypeError("Bootstrap's tooltips require Popper.js (https://popper.js.org/)");this._isEnabled=!0,this._timeout=0,this._hoverState="",this._activeTrigger={},this._popper=null,this.element=t,this.config=this._getConfig(e),this.tip=null,this._setListeners()}var e=t.prototype;return e.enable=function(){this._isEnabled=!0},e.disable=function(){this._isEnabled=!1},e.toggleEnabled=function(){this._isEnabled=!this._isEnabled},e.toggle=function(t){if(this._isEnabled)if(t){var e=t⟪ 3690 characters skipped ⟫ontent(o.default(t.querySelectorAll(".tooltip-inner")),this.getTitle()),o.default(t).removeClass("fade show")},e.setElementContent=function(t,e){"object"!=typeof e||!e.nodeType&&!e.jquery?this.config.html?(this.config.sanitize&&(e=U(e,this.config.whiteList,this.config.sanitizeFn)),t.html(e)):t.text(e):this.config.html?o.default(e).parent().is(t)||t.empty().append(e):t.text(o.default(e).text())},e.getTitle=function(){var t=this.element.getAttribute("data-original-title");return t||(t="function"==typeof this.config.title?this.config.title.call(this.element):this.config.title),t},e._getPopperConfig=function(t){var e=this;return r({},{placement:t,modifiers:{offset:this._getOffset(),flip:{behavior:this.config.fallbackPlacement},arrow:{element:".arrow"},preventOverflow:{boundariesElement:this.config.boundary}},onCreate:function(t){t.originalPlacement!==t.placement&&e._handlePopperPlacementChange(t)},onUpdate:function(t){return e._handlePopperPlacementChange(t)}},this.config.popperConfig)},e._getOffset=function(){var t=this,e={};return"function"==typeof this.config.offset?e.fn=function(e){return e.offsets=r({},e.offsets,t.config.offset(e.offsets,t.element)||{}),e}:e.offset=this.config.offset,e},e._getContainer=function(){return!1===this.config.container?document.body:d.isElement(this.config.container)
+
+plugins/jQuery/jquery.min.js:
+  1  /*! jQuery v3.5.1 | (c) JS Foundation and other contributors | jquery.org/license */
+  2: ⟪ 5074 characters skipped ⟫"+M+"*(\\d+)|))"+M+"*\\)|)","i"),bool:new RegExp("^(?:"+R+")$","i"),needsContext:new RegExp("^"+M+"*[>+~]|:(even|odd|eq|gt|lt|nth|first|last)(?:\\("+M+"*((?:-\\d)?\\d*)"+M+"*\\)|)(?=[^-]|$)","i")},Y=/HTML$/i,Q=/^(?:input|select|textarea|button)$/i,J=/^h\d$/i,K=/^[^{]+\{\s*\[native \w/,Z=/^(?:#([\w-]+)|(\w+)|\.([\w-]+))$/,ee=/[+~]/,te=new RegExp("\\\\[\\da-fA-F]{1,6}"+M+"?|\\\\([^\\r\\n\\f])","g"),ne=function(e,t){var n="0x"+e.slice(1)-65536;return t||(n<0?String.fromCharCode(n+65536):String.fromCharCode(n>>10|55296,1023&n|56320))},re=/([\0-\x1f\x7f]|^-?\d)|^-$|[^\0-\x1f\x7f-\uFFFF\w-]/g,ie=function(e,t){return t?"\0"===e?"\ufffd":e.slice(0,-1)+"\\"+e.charCodeAt(e.length-1).toString(16)+" ":"\\"+e},oe=function(){T()},ae=be(function(e){return!0===e.disabled&&"fieldset"===e.nodeName.toLowerCase()},{dir:"parentNode",next:"legend"});try{H.apply(t=O.call(p.childNodes),p.childNodes),t[p.childNodes.length].nodeType}catch(e){H={apply:t.length?function(e,t){L.apply(e,O.call(t))}:function(e,t){var n=e.length,r=0;while(e[n++]=t[r++]);e.length=n-1}}}function se(t,e,n,r){var i,o,a,s,u,l,c,f=e&&e.ownerDocument,p=e?e.nodeType:9;if(n=n||[],"string"!=typeof t||!t||1!==p&&9!==p&&11!==p)return n;if(!r⟪ 1980 characters skipped ⟫e){return e&&"undefined"!=typeof e.getElementsByTagName&&e}for(e in d=se.support={},i=se.isXML=function(e){var t=e.namespaceURI,n=(e.ownerDocument||e).documentElement;return!Y.test(t||n&&n.nodeName||"HTML")},T=se.setDocument=function(e){var t,n,r=e?e.ownerDocument||e:p;return r!=C&&9===r.nodeType&&r.documentElement&&(a=(C=r).documentElement,E=!i(C),p!=C&&(n=C.defaultView)&&n.top!==n&&(n.addEventListener?n.addEventListener("unload",oe,!1):n.attachEvent&&n.attachEvent("onunload",oe)),d.scope=ce(function(e){return a.appendChild(e).appendChild(C.createElement("div")),"undefined"!=typeof e.querySelectorAll&&!e.querySelectorAll(":scope fieldset div").length}),d.attributes=ce(function(e){return e.className="i",!e.getAttribute("className")}),d.getElementsByTagName=ce(function(e){return e.appendChild(C.createComment("")),!e.getElementsByTagName("*").length}),d.getElementsByClassName=K.test(C.getElementsByClassName),d.getById=ce(function(e){return a.appendChild(e).id=S,!C.getElementsByName||!C.getElementsByName(S).length}),d.getById?(b.filter.ID=function(e){var t=e.replace(te,ne);return function(e){return e.getAttribute("id")===t}},b.find.ID=function(e,t){if("undefined"!=typeof t.getElementB⟪ 805 characters skipped ⟫assName&&function(e,t){if("undefined"!=typeof t.getElementsByClassName&&E)return t.getElementsByClassName(e)},s=[],v=[],(d.qsa=K.test(C.querySelectorAll))&&(ce(function(e){var t;a.appendChild(e).innerHTML="<a id='"+S+"'></a><select id='"+S+"-\r\\' msallowcapture=''><option selected=''></option></select>",e.querySelectorAll("[msallowcapture^='']").length&&v.push("[*^$]="+M+"*(?:''|\"\")"),e.querySelectorAll("[selected]").length||v.push("\\["+M+"*(?:value|"+R+")"),e.querySelectorAll("[id~="+S+"-]").length||v.push("~="),(t=C.createElement("input")).setAttribute("name",""),e.appendChild(t),e.querySelectorAll("[name='']").length||v.push("\\["+M+"*name"+M+"*="+M+"*(?:''|\"\")"),e.querySelectorAll(":checked").length||v.push(":checked"),e.querySelectorAll("a#"+S+"+*").length||v.push(".#.+[+~]"),e.querySelectorAll("\\\f"),v.push("[\\r\\n\\f]")}),ce(function(e){e.innerHTML="<a href='' disabled='disabled'></a><select disabled='disabled'><option/></select>";var t=C.createElement("input");t.setAttribute("type","hidden"),e.appendChild(t).setAttribute("name","D"),e.querySelectorAll("[name=d]").length&&v.push("name"+M+"*[*^$|!~]?="),2!==e.querySelectorAll(":enabled").length&&v.push(":enabled",":disabled"),a.appendChild(e).disabled=!0,2!==e.querySelectorAll(":disabled").length&&v.push(":enabled",":disabled"),e.querySelectorAll("*,:x"),v.push(",.*:")})),(d.matchesSelector=K.test(c=a.matches||a.webkitMatchesSelector||a.mozMatchesSelector||a.oMatchesSelector||a.msMatchesSelector))&&ce(function(e){d.disconnectedMatch=c.call(e,"*"),c.call(e,"[s!='']:x"),s.push("!=",F)}),v=v.length&&new RegExp(v.join("|")),s=s.length&&new RegExp(s.join("|")),t=K.test(a.compareDocumentPosition),y=t||K.test(a.contains)?function(e,t){var n=9===e.nodeType?e.documentElement:e,r=t&&t.parentNode;return e===r||!(!r||1!==r.nodeType||!(n.contains?n.contains(r):e.compareDocumentPosition&&1⟪ 10889 characters skipped ⟫},d.sortStable=S.split("").sort(D).join("")===S,d.detectDuplicates=!!l,T(),d.sortDetached=ce(function(e){return 1&e.compareDocumentPosition(C.createElement("fieldset"))}),ce(function(e){return e.innerHTML="<a href='#'></a>","#"===e.firstChild.getAttribute("href")})||fe("type|href|height|width",function(e,t,n){if(!n)return e.getAttribute(t,"type"===t.toLowerCase()?1:2)}),d.attributes&&ce(function(e){return e.innerHTML="<input/>",e.firstChild.setAttribute("value",""),""===e.firstChild.getAttribute("value")})||fe("value",function(e,t,n){if(!n&&"input"===e.nodeName.toLowerCase())return e.defaultValue}),ce(function(e){return null==e.getAttribute("disabled")})||fe(R,function(e,t,n){var r;if(!n)return!0===e[t]?t.toLowerCase():(r=e.getAttributeNode(t))&&r.specified?r.value:null}),se}(C);S.find=d,S.expr=d.selectors,S.expr[":"]=S.expr.pseudos,S.uniqueSort=S.unique=d.uniqueSort,S.text=d.getText,S.isXMLDoc=d.isXML,S.contains=d.contains,S.escapeSelector=d.escape;var h=function(e,t,n){var r=[],i=void 0!==n;while((e=e[t])&&9!==e.nodeType)if(1===e.nodeType){if(i&&S(e).is(n))break;r.push(e)}return r},T=function(e,t){for(var n=[];e;e=e.nextSibling)1===e.nodeType&&e!==t&&n.push(e);return n},k=S.expr.match.needsContext;function A(e,t){return e.nodeName&&e.nodeName.toLowerCase()===t.toLowerCase()}var N=/^<([a-z][^\/\0>:\x20\t\r\n\f]*)[\x20\t\r\n\f]*\/?>(?:<\/\1>|)$/i;function D(e,n,r){return m(n)?S.grep(e,function⟪ 959 characters skipped ⟫r="<"===e[0]&&">"===e[e.length-1]&&3<=e.length?[null,e,null]:q.exec(e))||!r[1]&&t)return!t||t.jquery?(t||n).find(e):this.constructor(t).find(e);if(r[1]){if(t=t instanceof S?t[0]:t,S.merge(this,S.parseHTML(r[1],t&&t.nodeType?t.ownerDocument||t:E,!0)),N.test(r[1])&&S.isPlainObject(t))for(r in t)m(this[r])?this[r](t[r]):this.attr(r,t[r]);return this}return(i=E.getElementById(r[2]))&&(this[0]=i,this.length=1),this}return e.nodeType?(this[0]=e,this.length=1,this):m(e)?void 0!==n.ready?n.ready(e):e(S):S.makeArray(e,this)}).prototype=S.fn,j=S(E);var L=/^(?:parents|prev(?:Until|All))/,H={children:!0,contents:!0,next:!0,prev:!0};function O(e,t){while((e=e[t])&&1!==e.nodeType);return e}S.fn.extend({has:function(e){var t=S(e,this),n=t.length;return this.filter(function(){for(var e=0;e<n;e++)if(S.contains(this,t[e]))return!0})},closest:function(e,t){var n,r=0,i=this.length,o=[],a="string"!=typeof e&&S(e);if(!k.test(e))for(;r<i;r++)for(n=this[r];n&&n!==t;n=n.parentNode)if(n.nodeType<11&&(a?-1<a.index(n):1===n.nodeType&&S.find.matchesSelector(n,e))){o.push(n);break}return this.pushStack(1<o.length?S.uniqueSort(o):o)},index:function(e){return e?"string"==typeof e?i.call(S(e),this[0]):i.call(this,⟪ 11238 characters skipped ⟫lement("input")).setAttribute("type","radio"),fe.setAttribute("checked","checked"),fe.setAttribute("name","t"),ce.appendChild(fe),y.checkClone=ce.cloneNode(!0).cloneNode(!0).lastChild.checked,ce.innerHTML="<textarea>x</textarea>",y.noCloneChecked=!!ce.cloneNode(!0).lastChild.defaultValue,ce.innerHTML="<option></option>",y.option=!!ce.lastChild;var ge={thead:[1,"<table>","</table>"],col:[2,"<table><colgroup>","</colgroup></table>"],tr:[2,"<table><tbody>","</tbody></table>"],td:[3,"<table><tbody><tr>","</tr></tbody></table>"],_default:[0,"",""]};function ve(e,t){var n;return n="undefined"!=typeof e.getElementsByTagName?e.getElementsByTagName(t||"*"):"undefined"!=typeof e.querySelectorAll?e.querySelectorAll(t||"*"):[],void 0===t||t&&A(e,t)?S.merge([e],n):n}function ye(e,t){for(var n=0,r=e.length;n<r;n++)Y.set(e[n],"globalEval",!t||Y.get(t[n],"globalEval"))}ge.tbody=ge.tfoot=ge.colgroup=ge.caption=ge.thead,ge.th=ge.td,y.option||(ge.optgroup=ge.option=[1,"<select multiple='multiple'>","</select>"]);var me=/<|&#?\w+;/;function xe(e,t,n,r,i){for(var o,a,s,u,l,c,f=t.createDocumentFragment(),p=[],d=0,h=e.length;d<h;d++)if((o=e[d])||0===o)if("object"===w(o))S.merge(p,o.nodeType?[o]:o);else if(me.test(o)){a=a||f.appendChild(t.createElement("div")),s=(de.exec(o)||["",""])[1].toLowerCase(),u=ge[s]||ge._default,a.innerHTML=u[1]+S.htmlPrefilter(o)+u[2],c=u[0];while(c--)a=a.lastChild;S.merge(p,a.childNodes),(a=f.firstChild).textContent=""}else p.push(t.createTextNode(o));f.textContent="",d=0;while(o=p[d++])if(r&&-1<S.inArray(o,r))i&&i.push(o);else if(l=ie(o),a=ve(f.appendChild(o),"script"),l&&ye(a),n){c=0;while(o=a[c++])he.test(o.type||"")&&n.push(o)}return f}var be=/^key/,we=/^(?:mouse|pointer|contextmenu|drag|drop)|click/,Te=/^([^.]*)(?:\.(.+)|)/;function Ce(){return!0}function Ee(){return!1}function Se(e,t){return e===function(){try{return E.activeElement}catch(e){}}()==("focus"===t)}function ke(e,t,n,r,i,o){var a,s;if("object"==typeof t){for(s in"string"!=typeof n&&(r=r||n,n=void 0),t)ke(e,s,n,r,t[s],o);return e}if(null==r&&null==i?(i=n,r=n=void 0):null==i&&("string"==typeof n?(i=r,r=void 0):(i=r,r=n,n=void 0)),!1===i)i=Ee;else if(!i)return e;return 1===o&&(a=i,(i=function(e){return S().off(e),a.apply(this,arguments)}).guid=a.guid||(a.guid=S.guid++)),e.each(function(){S.event.add(this,t,i,r,n)})}function Ae(e⟪ 7653 characters skipped ⟫unction Pe(n,r,i,o){r=g(r);var e,t,a,s,u,l,c=0,f=n.length,p=f-1,d=r[0],h=m(d);if(h||1<f&&"string"==typeof d&&!y.checkClone&&De.test(d))return n.each(function(e){var t=n.eq(e);h&&(r[0]=d.call(this,e,t.html())),Pe(t,r,i,o)});if(f&&(t=(e=xe(r,n[0].ownerDocument,!1,n,o)).firstChild,1===e.childNodes.length&&(e=t),t||o)){for(s=(a=S.map(ve(e,"script"),Le)).length;c<f;c++)u=e,c!==p&&(u=S.clone(u,!0,!0),s&&S.merge(a,ve(u,"script"))),i.call(n[c],u,c);if(s)for(l=a[a.length-1].ownerDocument,S.map(a,He),c=0;c<s;c++)u=a[c],he.test(u.type||"")&&!Y.access(u,"globalEval")&&S.contains(l,u)&&(u.src&&"module"!==(u.type||"").toLowerCase()?S._evalUrl&&!u.noModule&&S._evalUrl(u.src,{nonce:u.nonce||u.getAttribute("nonce")},l):b(u.textContent.replace(je,""),u,l))}return n}function Re(e,t,n){for(var r,i=t?S.filter(t,e):e,o=0;null!=(r=i[o]);o++)n||1!==r.nodeType||S.cleanData(ve(r)),r.parentNode&&(n&&ie(r)&&ye(ve(r,"script")),r.parentNode.removeChild(r));return e}S.extend({htmlPrefilter:function(e){return e},clone:function(e,t,n){var r,i,o,a,s,u,l,c=e.cloneNode(!0),f=ie(e);if(!(y.noCloneChecked||1!==e.nodeType&&11!==e.nodeType||S.isXMLDoc(e)))for(a=ve(c),r=0,i=(o=ve(e)).length;r<i;r++)s=o[r],u=a[r],void 0,"input"===(l=u.nodeName.toLowerCase())&&pe.test(s.type)?u.checked=s.checked:"input"!==l&&"textarea"!==l||(u.defaultValue=s.defaultValue);if(t)if(n)for(o=o||ve(e),a=a||ve(c),r=0,i=o.length;r<i;r++)Oe(o[r],a[r]);else Oe(e,c);return 0<(a=ve(c,"script")).length&&ye(a,!f&&ve(e,"script")),c},cleanData:function(e){for(var t,n,r,i=S.event.special,o=0;void 0!==(n=e[o]);o++)if(V(n)){if(t=n[Y.expando]){if(t.events)for(r in t.events)i[r]?S.event.remove(n,r):S.removeEvent(n,r,t.handle);n[Y.expando]=void 0}n[Q.expando]&&(n[Q.expando]=void 0)}}}),S.fn.extend({detach:function(e){return Re(this,e,!0)},remove:function(e){return Re(this,e)},text:function(e){return $(this,function(e){return void 0===e?S.text(this):this.empty().each(function(){1!==this.nodeType&&11!==this.n⟪ 649 characters skipped ⟫e,t=0;null!=(e=this[t]);t++)1===e.nodeType&&(S.cleanData(ve(e,!1)),e.textContent="");return this},clone:function(e,t){return e=null!=e&&e,t=null==t?e:t,this.map(function(){return S.clone(this,e,t)})},html:function(e){return $(this,function(e){var t=this[0]||{},n=0,r=this.length;if(void 0===e&&1===t.nodeType)return t.innerHTML;if("string"==typeof e&&!Ne.test(e)&&!ge[(de.exec(e)||["",""])[1].toLowerCase()]){e=S.htmlPrefilter(e);try{for(;n<r;n++)1===(t=this[n]||{}).nodeType&&(S.cleanData(ve(t,!1)),t.innerHTML=e);t=0}catch(e){}}t&&this.empty().append(e)},null,e,arguments.length)},replaceWith:function(){var n=[];return Pe(this,arguments,function(e){var t=this.parentNode;S.inArray(this,n)<0&&(S.cleanData(ve(this)),t&&t.replaceChild(e,this))},n)}}),S.each({appendTo:"append",prependTo:"prepend",insertBefore:"before",insertAfter:"after",replaceAll:"replaceWith"},function(e,a){S.fn[e]=function(e){for(var t,n=[],r=S(e),i=r.length-1,o=0;o<=i;o++)t=o===i?this:this.clone(!0),S(r[o])[a](t),u.apply(n,t.get());return this.pushStack(n)}});var Me=new RegExp("^("+ee+")(?!px)[a-z%]+$","i"),Ie=function(e){var t=e.ownerDocument.defaultView;return t&&t.opener||(t=C),t.getComputedStyle(e)},We=function(e,t,n){var r,i,o={};for(i in t)o[i]=e.style[i],e.style[i]=t[i];for(i in r=n.call(e),t)e.style[i]=o[i];return r},Fe=new RegExp(ne.join("|"),"i");function Be(e,t,n){var r,i,o,a,s=e.style;return(n=n||Ie(e))&&(""!==(a=n.getPropertyValue(t)||n[t])||ie(e)||(a=S.style(e,t)),!y.pixelBoxStyles()&&Me.test(a)&&Fe.test(t)⟪ 15082 characters skipped ⟫ i&&null!==(r=i.get(e,t))?r:e[t]},propHooks:{tabIndex:{get:function(e){var t=S.find.attr(e,"tabindex");return t?parseInt(t,10):ht.test(e.nodeName)||gt.test(e.nodeName)&&e.href?0:-1}}},propFix:{"for":"htmlFor","class":"className"}}),y.optSelected||(S.propHooks.selected={get:function(e){var t=e.parentNode;return t&&t.parentNode&&t.parentNode.selectedIndex,null},set:function(e){var t=e.parentNode;t&&(t.selectedIndex,t.parentNode&&t.parentNode.selectedIndex)}}),S.each(["tabIndex","readOnly","maxLength","cellSpacing","cellPadding","rowSpan","colSpan","useMap","frameBorder","contentEditable"],function(){S.propFix[this.toLowerCase()]=this}),S.fn.extend({addClass:function(t){var e,n,r,i,o,a,s,u=0;if(m(t))return this.each(function(e){S(this).addClass(t.call(this,e,yt(this)))});if((e=mt(t)).length)while(n=this[u++])if(i=yt(n),r=1===n.nodeType&&" "+vt(i)+" "){a=0;while(o=e[a++])r.indexOf(" "+o+" ")<0&&(r+=o+" ");i!==(s=vt(r))&&n.setAttribute("class",s)}return this},removeClass:function(t){var e,n,r,i,o,a,s,u=0;if(m(t))return this.each(function(e){S(this).removeClass(t.call(this,e,yt(this)))});if(!arguments.length)return this.attr("class","");if((e=mt(t)).length)while(n=this[u++])if(i=yt(n),r=⟪ 6745 characters skipped ⟫t|app|app-storage|.+-extension|file|res|widget):$/.test(Tt.protocol),global:!0,processData:!0,async:!0,contentType:"application/x-www-form-urlencoded; charset=UTF-8",accepts:{"*":It,text:"text/plain",html:"text/html",xml:"application/xml, text/xml",json:"application/json, text/javascript"},contents:{xml:/\bxml\b/,html:/\bhtml/,json:/\bjson\b/},responseFields:{xml:"responseXML",text:"responseText",json:"responseJSON"},converters:{"* text":String,"text html":!0,"text json":JSON.parse,"text xml":S.parseXML},flatOptions:{url:!0,context:!0}},ajaxSetup:function(e,t){return t?$t($t(e,S.ajaxSettings),t):$t(S.ajaxSettings,e)},ajaxPrefilter:Ft(Rt),ajaxTransport:Ft(Mt),ajax:function(e,t){"object"==typeof e&&(t=e,e=void 0),t=t||{};var c,f,p,n,d,r,h,g,i,o,v=S.ajaxSetup({},t),y=v.context||v,m=v.context&&(y.nodeType||y.jquery)?S(y):S.event,x=S.Deferred(),b=S.Callbacks("once memory"),w=v.statusCode||{},a={},s={},u="canceled",T={readyState:0,getResponseHeader:function(e){var t;if(h){if(!n){n={};while(t=Ht.exec(p))n[t[1].toLowerCase()+" "]=(n[t[1].toLowerCase()+" "]||[]).concat(t[2])}t=n[e.toLowerCase()+" "]}return null==t?null:t.join(", ")},getAllResponseHeaders:function(){return h?p:null},setRequestHeader:function(e,t){return null==h&&(e=s[e.toLowerCase()]=s[e.toLowerCase()]||e,a[e]=t),this},overrideMimeType:function(e){return null==h&&(v.mimeType=e),this},statusCode:function(e){var t;if(e)if(h)T.always(e[T.status]);else for(t in e)w[t]=[w[t],e[t]⟪ 7672 characters skipped ⟫"json",i=C[r],C[r]=function(){o=arguments},n.always(function(){void 0===i?S(C).removeProp(r):C[r]=i,e[r]&&(e.jsonpCallback=t.jsonpCallback,Xt.push(r)),o&&m(i)&&i(o[0]),o=i=void 0}),"script"}),y.createHTMLDocument=((Ut=E.implementation.createHTMLDocument("").body).innerHTML="<form></form><form></form>",2===Ut.childNodes.length),S.parseHTML=function(e,t,n){return"string"!=typeof e?[]:("boolean"==typeof t&&(n=t,t=!1),t||(y.createHTMLDocument?((r=(t=E.implementation.createHTMLDocument("")).createElement("base")).href=E.location.href,t.head.appendChild(r)):t=E),o=!n&&[],(i=N.exec(e))?[t.createElement(i[1])]:(i=xe([e],t,o),o&&o.length&&S(o).remove(),S.merge([],i.childNodes)));var r,i,o},S.fn.load=function(e,t,n){var r,i,o,a=this,s=e.indexOf(" ");return-1<s&&(r=vt(e.slice(s)),e=e.slice(0,s)),m(t)?(n=t,t=void 0):t&&"object"==typeof t&&(i="POST"),0<a.length&&S.ajax({url:e,type:i||"GET",dataType:"html",data:t}).done(function(e){o=arguments,a.html(r?S("<div>").append(S.parseHTML(e)).find(r):e)}).always(n&&function(e,t){a.each(function(){n.apply(this,o||[e.responseText,t,e])})}),this},S.expr.pseudos.animated=function(t){return S.grep(S.timers,function(e){return t===e.elem}).length},S.offset={setOffset:function(e,t,n){var r,i,o,a,s,u,l=S.css(e,"position"),c=S(e),f={};"static"===l&&(e.style.position="relative"),s=c.offset(),o=S.css(e,"top"),u=S.css(e,"left"),("absolute"===l||"fixed"===l)&&-1<(o+u).indexOf("auto")?(a=(r=c.position()).top,i=r.left):(a=parseFloat(o)||0,i=parseFloat(u)||0),m(t)&&(t=t.call(e,n,S.extend({},s))),null!=t.top&&(f.top=t.top-s.top+a),null!=t.left&&(f.left=t.left-s.left+i),"using"in t?t.using.call(e,f):("number"==typeof f.top&&(f.top+="px"),"number"==typeof f.left&&(f.left+="px"),c.css(f))}},S.fn.extend({offset:function(t){if(arguments.length)return void 0===t?this:this.each(function(e){S.offset.setOffset(this,t,e)});var e,n,r=this[0];return r?r.getClientRects().length?(e=r.getBoundingClientRect(),n=r.ownerDocument.defaultView,{top:e.to
+
+plugins/slick/slick.css:
+  1: .slick-list,.slick-slider,.slick-track{position:relative;display:block}.slick-loading .slick-slide,.slick-loading .slick-track{visibility:hidden}.slick-slider{box-sizing:border-box;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-touch-callout:none;-khtml-user-select:none;-ms-touch-action:pan-y;touch-action:pan-y;-webkit-tap-highlight-color:transparent}.slick-list{overflow:hidden;margin:0;padding:0}.slick-list:focus{outline:0}.slick-list.dragging{cursor:pointer;cursor:hand}.slick-slider .slick-list,.slick-slider .slick-track{-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0);-o-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}.slick-track{top:0;left:0;margin-left:auto;margin-right:auto}.slick-track:after,.slick-track:before{display:table;content:''}.slick-track:after{clear:both}.slick-slide{display:none;float:left;height:100%;min-height:1px}[dir=rtl] .slick-slide{float:right}.slick-slide img{display:block}.slick-slide.slick-loading img{display:none}.slick-slide.dragging img{pointer-events:none}.slick-initialized .slick-slide{display:block}.slick-vertical .slick-slide{display:block;height:auto;border:1px solid transparent}.slick-arrow.slick-hidden{display:none}
+
+plugins/slick/slick.min.js:
+  1: ⟪ 2548 characters skipped ⟫roxy(n.selectHandler,n),n.setPosition=i.proxy(n.setPosition,n),n.swipeHandler=i.proxy(n.swipeHandler,n),n.dragHandler=i.proxy(n.dragHandler,n),n.keyHandler=i.proxy(n.keyHandler,n),n.instanceUid=e++,n.htmlExpr=/^(?:\s*(<[\w\W]+>)[^>]*)$/,n.registerBreakpoints(),n.init(!0)}).prototype.activateADA=function(){this.$slideTrack.find(".slick-active").attr({"aria-hidden":"false"}).find("a, input, button, select").attr({tabindex:"0"})},t.prototype.addSlide=t.prototype.slickAdd=function(e,t,o){var s=this;if("boolean"==typeof t)o=t,t=null;else if(t<0||t>=s.slideCount)return!1;s.unload(),"number"==typeof t?0===t&&0===s.$slides.length?i(e).appendTo(s.$slideTrack):o?i(e).insertBefore(s.$slides.eq(t)):i(e).insertAfter(s.$slides.eq(t)):!0===o?i(e).prependTo(s.$slideTrack):i(e).appendTo(s.$slideTrack),s.$slides=s.$slideTrack.children(this.options.slide),s.$slideTrack.children(this.options.slide).detach(),s.$slideTrack.append(s.$slides),s.$slides.each(function(e,t){i(t).attr("data-slick-index",e)}),s.$slidesCache=s.$slides,s.reinit()},t.prototype.animateHeight=function(){var i=this;if(1===i.options.slidesToShow&&!0===i.options.adaptiveHeight&&!1===i.options.vertical){var e=i.$slides.eq(i.currentSlid⟪ 2384 characters skipped ⟫-arrow"),e.slideCount>e.options.slidesToShow?(e.$prevArrow.removeClass("slick-hidden").removeAttr("aria-hidden tabindex"),e.$nextArrow.removeClass("slick-hidden").removeAttr("aria-hidden tabindex"),e.htmlExpr.test(e.options.prevArrow)&&e.$prevArrow.prependTo(e.options.appendArrows),e.htmlExpr.test(e.options.nextArrow)&&e.$nextArrow.appendTo(e.options.appendArrows),!0!==e.options.infinite&&e.$prevArrow.addClass("slick-disabled").attr("aria-disabled","true")):e.$prevArrow.add(e.$nextArrow).addClass("slick-hidden").attr({"aria-disabled":"true",tabindex:"-1"}))},t.prototype.buildDots=function(){var e,t,o=this;if(!0===o.options.dots){for(o.$slider.addClass("slick-dotted"),t=i("<ul />").addClass(o.options.dotsClass),e=0;e<=o.getDotCount();e+=1)t.append(i("<li />").append(o.options.customPaging.call(this,o,e)));o.$dots=t.appendTo(o.options.appendDots),o.$dots.find("li").first().addClass("slick-active")}},t.prototype.buildOut=function(){var e=this;e.$slides=e.$slider.children(e.options.slide+":not(.slick-cloned)").addClass("slick-slide"),e.slideCount=e.$slides.length,e.$slides.each(function(e,t){i(t).attr("data-slick-index",e).data("originalStyling",i(t).attr("style")||"")}),e.$slider.addClass("slick-slider"),e.$slideTrack=0===e.slideCount?i('<div class="slick-track"/>').a⟪ 5241 characters skipped ⟫,t.$dots&&t.$dots.remove(),t.$prevArrow&&t.$prevArrow.length&&(t.$prevArrow.removeClass("slick-disabled slick-arrow slick-hidden").removeAttr("aria-hidden aria-disabled tabindex").css("display",""),t.htmlExpr.test(t.options.prevArrow)&&t.$prevArrow.remove()),t.$nextArrow&&t.$nextArrow.length&&(t.$nextArrow.removeClass("slick-disabled slick-arrow slick-hidden").removeAttr("aria-hidden aria-disabled tabindex").css("display",""),t.htmlExpr.test(t.options.nextArrow)&&t.$nextArrow.remove()),t.$slides&&(t.$slides.removeClass("slick-slide slick-active slick-center slick-visible slick-current").removeAttr("aria-hidden").removeAttr("data-slick-index").each(function(){i(this).attr("style",i(this).data("originalStyling"))}),t.$slideTrack.children(this.options.slide).detach(),t.$slideTrack.detach(),t.$list.detach(),t.$slider.append(t.$slides)),t.cleanUpRows(),t.$slider.removeClass("slick-slider"),t.$slider.removeClass("slick-initialized"),t.$slider.removeClass("slick-dotted"),t.unslicked=!0,e||t.$slider.trigger("destroy",[t])},t.prototype.disableTransition=function(i){var e={};e[this.transitionType]="",!1===this.options.fade?this.$slideTrack.css(e):this.$slides.eq(i).css(e)},t.prototype.fadeSlide=function(i,e){var t=this;!1===t.cssTransitions?(t.$slides.eq(i).css({zIndex:t.options.zIndex}),t.$slides.eq(i).animate({opacity:1},t.options.speed,t.options.easing,e)):(t.applyTransition(i),t.$slides.eq(i).css({opacity:1,zIndex:⟪ 26700 characters skipped ⟫is.options.slide).detach(),i.$slidesCache.appendTo(i.$slideTrack),i.reinit())},t.prototype.unload=function(){var e=this;i(".slick-cloned",e.$slider).remove(),e.$dots&&e.$dots.remove(),e.$prevArrow&&e.htmlExpr.test(e.options.prevArrow)&&e.$prevArrow.remove(),e.$nextArrow&&e.htmlExpr.test(e.options.nextArrow)&&e.$nextArrow.remove(),e.$slides.removeClass("slick-slide slick-active slick-visible slick-current").attr("aria-hidden","true").css("width","")},t.prototype.unslick=function(i){this.$slider.trigger("unslick",[this,i]),this.destroy()},t.prototype.updateArrows=function(){var i=this;Math.floor(i.options.slidesToShow/2),!0===i.options.arrows&&i.slideCount>i.options.slidesToShow&&!i.options.infinite&&(i.$prevArrow.removeClass("slick-disabled").attr("aria-disabled","false"),i.$nextArrow.removeClass("slick-disabled").attr("aria-disabled","false"),0===i.currentSlide?(i.$prevArrow.addClass("slick-disabled").attr("aria-disabled","true"),i.$nextArrow.removeClass("slick-disabled").attr("aria-disabled","false")):i.currentSlide>=i.slideCount-i.options.slidesToShow&&!1===i.options.centerMode?(i.$nextArrow.addClass("slick-disabled").attr("aria-disabled","true"),i.$prevArrow.removeClass("slick-disabled").attr("aria-disabled","false")):i.currentSlide>=i.slideCount-1&&!
+
+plugins/themify-icons/themify-icons.css:
+  1: ⟪ 13376 characters skipped ⟫nt:"\e752"}.ti-pinterest-alt:before{content:"\e753"}.ti-microsoft-alt:before{content:"\e754"}.ti-linux:before{content:"\e755"}.ti-jsfiddle:before{content:"\e756"}.ti-joomla:before{content:"\e757"}.ti-html5:before{content:"\e758"}.ti-flickr-alt:before{content:"\e759"}.ti-email:before{content:"\e75a"}.ti-drupal:before{content:"\e75b"}.ti-dropbox-alt:before{content:"\e75c"}.ti-css3:before{content:"\e75d"}.ti-rss:before{content:"\e75e"}.ti-rss-alt:before{content:"\e75f"}
